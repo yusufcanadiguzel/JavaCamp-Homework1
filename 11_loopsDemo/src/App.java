@@ -33,7 +33,7 @@ public class App {
             number++;
             System.out.println(number);
         } while (number <= 10);
-
+        
         System.out.println("------------------------------------------- \n");
     }
 }
